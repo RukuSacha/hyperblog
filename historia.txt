@@ -1,7 +1,6 @@
-Hola soy Ruku Sacha
+Hola soy Ruku Sacha y esta es mi historia
 
-Estoy aprendiendo a usar Git
+Jose Antonio Silva "Ruku Sacha" nacio en 1996 teniendo 24 años actualmente en Quito Ecuador,
+durante toda su vida viajo mucho viviendo en todo latinoamerica
 
-Aqui voy a hacer todos mis cambios de mi proyecto para aprender a usar esta herramienta
-
-Te deseo Suerte Rukus
+Hoy vamos a hablar de mi historia.
